@@ -1,3 +1,20 @@
+v1.2 "A New Beginning"
+2021-7-11
+============================================================================================================================================================================
+
+
++full patches and functionality for latest versions of ksp
++new planet and updates for the Wall system
++made some references
+
+*tilted several rings to fix visual glitches
+*added creeper, a new planet around Wall
+*added several updates to Wall in general
+*(Wall patches were discovered in the master branch of TWB)
+*removed AVC patches, works in all versions now
+
+
+
 v1.1.1 "Bridging Azure" Patch 1
 2018-10-31
 ============================================================================================================================================================================
